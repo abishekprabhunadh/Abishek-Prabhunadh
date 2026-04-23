@@ -12,6 +12,7 @@
 
 ### 💻 Backend
 - Java
+- JDBC
 - JSP
 - Servlets
 - Hibernate
