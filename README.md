@@ -16,7 +16,7 @@
 - JSP
 - Servlets
 - Hibernate
-- Spring Boot (Learning)
+- Spring Boot
 
 ### 🎨 Frontend
 - HTML
